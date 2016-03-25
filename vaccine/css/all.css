@@ -11021,7 +11021,7 @@ body {
 }
 
 .bg_top {
-  background: url(../img/bg_top.jpg) no-repeat top center;
+  background: url(http://huong-cdn.github.io/vaccine/img/bg_top.jpg) no-repeat top center;
   height: 600px;
 }
 
@@ -11058,10 +11058,10 @@ body {
   font-size: 50px;
   color: #01999a;
   text-shadow: 2px 2px 0 #fff,
-			-1px -1px 0 #fff,
-			1px -1px 0 #fff,
-			-1px 1px 0 #fff,
-			1px 1px 0 #fff;
+      -1px -1px 0 #fff,
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+      1px 1px 0 #fff;
 }
 
 .content_text_top h3 {
@@ -11069,10 +11069,10 @@ body {
   font-size: 30px;
   color: #f05857;
   text-shadow: 2px 2px 0 #fff,
-			-1px -1px 0 #fff,
-			1px -1px 0 #fff,
-			-1px 1px 0 #fff,
-			1px 1px 0 #fff;
+      -1px -1px 0 #fff,
+      1px -1px 0 #fff,
+      -1px 1px 0 #fff,
+      1px 1px 0 #fff;
   margin-bottom: 50px;
 }
 
@@ -11302,7 +11302,7 @@ input[type="checkbox"] {
 }
 
 .logo-mcheck {
-  background: url(../img/logo-mcheck.png) no-repeat 10px center;
+  background: url(http://huong-cdn.github.io/vaccine/img/logo-mcheck.png) no-repeat 10px center;
   padding-left: 70px;
   min-height: 70px;
   padding-top: 10px;
@@ -12304,7 +12304,7 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"]:checked + label span {
-  background: url(../img/check_radio_sheet.png) -19px top no-repeat;
+  background: url(http://huong-cdn.github.io/vaccine/img/check_radio_sheet.png) -19px top no-repeat;
 }
 
 input[type="checkbox"] + label span {
@@ -12312,7 +12312,7 @@ input[type="checkbox"] + label span {
   width: 19px;
   height: 19px;
   vertical-align: middle;
-  background: url('../img/check_radio_sheet.png') left top no-repeat;
+  background: url('http://huong-cdn.github.io/vaccine/img/check_radio_sheet.png') left top no-repeat;
   cursor: pointer;
 }
 
@@ -12322,7 +12322,7 @@ input[type="radio"] + label span {
   height: 19px;
   /*margin: -30px -10px 0 0;*/
   vertical-align: middle;
-  background: url(../img/check_radio_sheet.png) -38px top no-repeat;
+  background: url(http://huong-cdn.github.io/vaccine/img/check_radio_sheet.png) -38px top no-repeat;
   cursor: pointer;
 }
 
@@ -12333,7 +12333,7 @@ input[type="radio"] + label span {
 }
 
 input[type="radio"]:checked + label span {
-  background: url(../img/check_radio_sheet.png) -57px top no-repeat;
+  background: url(http://huong-cdn.github.io/vaccine/img/check_radio_sheet.png) -57px top no-repeat;
 }
 
 .flag-container {
