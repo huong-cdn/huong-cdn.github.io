@@ -2018,7 +2018,7 @@ var Global = {
                 error: function () {
                     clearInterval(interval);
                     $('#fail').find('.modal-title').html('Lỗi hệ thống');
-                    Global.showError({mess: "Xin lỗi! Hiện tại hệ thống đang quá tải, kết quả đăng ký của bạn sẽ gửi về email khi đăng ký thành công"});
+                    Global.showError({mess: "Hệ thống đang quá tải, xin vui lòng thử lại"});
                 }
             });
         }, 30000);
