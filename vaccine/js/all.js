@@ -1964,7 +1964,7 @@ var Global = {
                     success: function (response, xhr) {
                         if(xhr.status != 200) {
                             $('#fail').find('.modal-title').html('Thông báo!');
-                            Global.showError({mess: "Hệ thống đang tải cao, xin vui lòng thử lại"});
+                            Global.showError({mess: "Hệ thống đang chịu tải cao, xin vui lòng thử lại"});
                         }
                         if (response.status) {
                             window.location.hash = 'success';
@@ -1980,7 +1980,7 @@ var Global = {
                     },
                     error: function (xhr, status, error) {
                         $('#fail').find('.modal-title').html('Thông báo!');
-                        Global.showError({mess: "Hệ thống đang tải cao, xin vui lòng thử lại"});
+                        Global.showError({mess: "Hệ thống đang chịu tải cao, xin vui lòng thử lại"});
                     }
                 });
             } else {
