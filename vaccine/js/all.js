@@ -1647,7 +1647,8 @@ $.validator.addMethod("isDate", function (value, element, params) {
 
         if (!$(element).data('reval')) {
             var fields = $(classSelector, element.form);
-            fields.data('reval', true).valid();
+            fields.data('reval', true);
+            fields.validate();
             fields.data('reval', false);
         }
         return valid;
@@ -1774,11 +1775,13 @@ var Global = {
                 },
                 day: {
                     required: true,
+                    number: true,
                     checkDay: true,
                     isDate: [dateFields, '.part'],
                 },
                 month: {
                     required: true,
+                    number: true,
                     checkMonth: true,
                     isDate: [dateFields, '.part'],
                 },
@@ -1813,9 +1816,11 @@ var Global = {
                     required: "Bạn chưa nhập họ tên bố mẹ"
                 },
                 day: {
+                    number: "Chỉ nhập số",
                     required: "Bạn chưa nhập ngày sinh",
                 },
                 month: {
+                    number: "Chỉ nhập số",
                     required: "Bạn chưa nhập tháng sinh",
                 },
                 year: {
@@ -1957,7 +1962,7 @@ var Global = {
                     success: function (response, xhr) {
                         if(xhr.status != 200) {
                             $('#fail').find('.modal-title').html('Lỗi hệ thống');
-                            Global.showError({mess: "Xin lỗi! Hiện tại hệ thống đang quá tải, kết quả đăng ký của bạn sẽ gửi về email khi đăng ký thành công"});
+                            Global.showError({mess: "Hệ thống đang quá tải, xin vui lòng thử lại"});
                         }
                         if (response.status) {
                             window.location.hash = 'success';
@@ -1967,12 +1972,13 @@ var Global = {
 
                             localforage.setItem('formSuccess', response.dataHtml);
                         } else {
+                            $('#fail').find('.modal-title').html('Thông báo!');
                             Global.showError(response.errors);
                         }
                     },
                     error: function (xhr, status, error) {
                         $('#fail').find('.modal-title').html('Lỗi hệ thống');
-                        Global.showError({mess: "Xin lỗi! Hiện tại hệ thống đang quá tải, kết quả đăng ký của bạn sẽ gửi về email khi đăng ký thành công"});
+                        Global.showError({mess: "Hệ thống đang quá tải, xin vui lòng thử lại"});
                     }
                 });
             } else {
