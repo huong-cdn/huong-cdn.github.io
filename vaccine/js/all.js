@@ -1666,8 +1666,9 @@ $.validator.addMethod("isIdNumber", function (value) {
 
 $.validator.addMethod("isPhone", function (phone_number, element) {
     phone_number = phone_number.replace(/\(|\)|\s+|-/g, '');
+    //phone_number.match(/^(84|0)(1\d{9}|9\d{8}|8\d{8})$/)
     return this.optional(element) || phone_number.length > 9 &&
-        phone_number.match(/^(84|0)(1\d{9}|9\d{8}|8\d{8})$/);
+        phone_number.match(/^(\+84|0|84)(\d{9,10})$/);
 }, 'Số điện thoại không hợp lệ');
 
 $.validator.addMethod("isEmail", function isEmail(email) {
@@ -1802,7 +1803,7 @@ var Global = {
                 },
                 mobile: {
                     required: true,
-                    number: true,
+                    //number: true,
                     isPhone: true
                 },
                 email: {
@@ -1835,7 +1836,7 @@ var Global = {
                 },
                 mobile: {
                     required: "Bạn chưa nhập số điện thoại",
-                    number: "Chỉ nhập số"
+                    //number: "Chỉ nhập số"
                 },
                 email: {
                     required: "Bạn chưa nhập email",
