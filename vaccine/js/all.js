@@ -1705,9 +1705,9 @@ var Global = {
     beforeRegister: function() {
         var d = moment(),
             currentTime = d.valueOf(),
-            dateLine = moment(REGISTER_TIME_OPEN, "YYYY/MM/DD H:i:s"),
+            dateLine = moment(REGISTER_TIME_OPEN, "YYYY/MM/DD HH:mm:ss"),
             timeCountDown = dateLine.valueOf() - currentTime;
-        console.log(dateLine);
+        console.log(d, dateLine, currentTime, dateLine.valueOf(), timeCountDown);
 
         if (REGISTER_OPEN == 0) {
             $('#form-check-name').addClass('disabled');
