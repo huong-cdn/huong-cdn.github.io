@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d6b7f30-8f4b-4ed4-a717-63c31081b90c" name="Default" comment="" />
+    <list default="true" id="4d6b7f30-8f4b-4ed4-a717-63c31081b90c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/css/all.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/arow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/avata.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner-ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner-slider.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bg-module.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bg-time.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bgs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-pre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bulet-right-w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bulet-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/cam-nang-benh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/check_radio_sheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/checks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dat-lich-kham.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/goo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/google.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/gplus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/ha-noi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/hcm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/hoi-dap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/img-default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/img-square.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo-tiemvacxin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/print.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/read-more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/so-y-te.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-bo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-moi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-vacxin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/true-bulet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tu-thuoc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/twister.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/win.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/js/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/js/all.js.map" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/img/ha-noi.png" afterPath="$PROJECT_DIR$/pasteur/img/ha-noi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/img/hcm.png" afterPath="$PROJECT_DIR$/pasteur/img/hcm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="huong-cdn.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,20 +95,34 @@
       <file leaf-file-name="all.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="192">
               <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="all.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
+            <state relative-caret-position="-43523">
               <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ha-noi.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/ha-noi.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hcm.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/hcm.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -62,9 +147,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -91,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -109,12 +195,18 @@
               <option name="myItemId" value="huong-cdn.github.io" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vaccine" />
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="pasteur" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -128,37 +220,27 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vaccine" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huong-cdn.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemId" value="pasteur" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vaccine" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pasteur" />
+    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -172,6 +254,7 @@
       <updated>1463545433663</updated>
       <workItem from="1463545434977" duration="2551000" />
       <workItem from="1463559526011" duration="3912000" />
+      <workItem from="1464322312184" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="fix text validate">
       <created>1463546811230</created>
@@ -219,23 +302,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6463000" />
+    <option name="totallyTimeSpent" value="6491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25816733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2621514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78486645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.78486645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -272,6 +355,22 @@
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
+          <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
           <caret line="8" column="3150" selection-start-line="8" selection-start-column="3150" selection-end-line="8" selection-end-column="3150" />
           <folding />
         </state>
@@ -287,7 +386,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="192">
           <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
           <folding />
         </state>
@@ -295,10 +394,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
+        <state relative-caret-position="-43523">
           <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/hcm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/ha-noi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
