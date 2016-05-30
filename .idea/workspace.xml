@@ -2,76 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6b7f30-8f4b-4ed4-a717-63c31081b90c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/css/all.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/app.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/arow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/avata.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner-ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner-slider.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/banner2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bg-module.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bg-time.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bgs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/btn-pre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bulet-right-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/bulet-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/cam-nang-benh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/check_radio_sheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/checks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/code.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dat-lich-kham.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/date.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/dis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/fa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/goo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/google.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/gplus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/ha-noi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/hcm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/hoi-dap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/icon-user.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/img-default.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/img-square.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/in.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo-tiemvacxin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/read-more.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/so-y-te.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-bo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-moi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem-vacxin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tiem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/true-bulet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/tu-thuoc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/twister.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/view.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/img/win.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/js/all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parteur/js/all.js.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/img/ha-noi.png" afterPath="$PROJECT_DIR$/pasteur/img/ha-noi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/img/hcm.png" afterPath="$PROJECT_DIR$/pasteur/img/hcm.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/css/all.min.css" afterPath="$PROJECT_DIR$/pasteur/css/all.min.css" />
     </list>
     <ignored path="huong-cdn.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
+              <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
               <folding />
             </state>
           </provider>
@@ -105,28 +37,52 @@
       <file leaf-file-name="all.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43523">
+            <state relative-caret-position="168">
               <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ha-noi.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pasteur/img/ha-noi.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="all.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="10" column="35336" selection-start-line="10" selection-start-column="35336" selection-end-line="10" selection-end-column="35336" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hcm.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pasteur/img/hcm.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="all.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="9" column="9210" selection-start-line="9" selection-start-column="9210" selection-end-line="9" selection-end-column="9210" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,6 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/vaccine/js/all.min.js" />
         <option value="$PROJECT_DIR$/vaccine/css/all.min.css" />
+        <option value="$PROJECT_DIR$/pasteur/js/all.min.js" />
+        <option value="$PROJECT_DIR$/pasteur/css/all.min.css" />
       </list>
     </option>
   </component>
@@ -176,8 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -224,23 +180,60 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pasteur/img" />
       <recent name="$PROJECT_DIR$/pasteur" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -254,7 +247,10 @@
       <updated>1463545433663</updated>
       <workItem from="1463545434977" duration="2551000" />
       <workItem from="1463559526011" duration="3912000" />
-      <workItem from="1464322312184" duration="28000" />
+      <workItem from="1464322312184" duration="192000" />
+      <workItem from="1464322952376" duration="5243000" />
+      <workItem from="1464398467594" duration="3962000" />
+      <workItem from="1464571299333" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="fix text validate">
       <created>1463546811230</created>
@@ -298,27 +294,167 @@
       <option name="project" value="LOCAL" />
       <updated>1463572142548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix css">
+      <created>1464322342161</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1464322342161</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix css">
+      <created>1464323069014</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1464323069014</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix css">
+      <created>1464324203517</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1464324203517</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix css">
+      <created>1464332155819</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1464332155819</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix css">
+      <created>1464338439287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1464338439287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fix css">
+      <created>1464338749090</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1464338749090</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix css">
+      <created>1464339203040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1464339203040</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix css">
+      <created>1464341647107</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1464341647107</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix css">
+      <created>1464345394339</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1464345394339</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix css">
+      <created>1464345691152</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1464345691152</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix css">
+      <created>1464398488072</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1464398488072</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix css">
+      <created>1464401333399</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1464401333399</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix css">
+      <created>1464401533720</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1464401533720</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix css">
+      <created>1464405216550</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1464405216550</updated>
+    </task>
+    <task id="LOCAL-00021" summary="fix css">
+      <created>1464408562035</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1464408562035</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix css">
+      <created>1464409164385</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1464409164385</updated>
+    </task>
+    <task id="LOCAL-00023" summary="fix css">
+      <created>1464572667136</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1464572667136</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix css">
+      <created>1464573990521</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1464573990521</updated>
+    </task>
+    <task id="LOCAL-00025" summary="fix css">
+      <created>1464575492363</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1464575492364</updated>
+    </task>
+    <task id="LOCAL-00026" summary="fix css">
+      <created>1464581299596</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1464581299596</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6491000" />
+    <option name="totallyTimeSpent" value="18578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2621514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27649403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.78486645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28486648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -355,6 +491,83 @@
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/hcm.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
           <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
           <folding />
         </state>
@@ -384,22 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43523">
-          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pasteur/img/hcm.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -408,6 +605,46 @@
     <entry file="file://$PROJECT_DIR$/pasteur/img/ha-noi.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="9210" selection-start-line="9" selection-start-column="9210" selection-end-line="9" selection-end-column="9210" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="10" column="35336" selection-start-line="10" selection-start-column="35336" selection-end-line="10" selection-end-column="35336" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
