@@ -2,8 +2,258 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6b7f30-8f4b-4ed4-a717-63c31081b90c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/gif/340x340_srnpq.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/gif/770x100_eguvc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/gif/facebook.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/gif/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/-trang-tre-so-sinh-bi-non-tro_yqkwj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/092433_3mh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/103711baoxaydung_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/114717-benh-nhan1-3_nzxlz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1280-720_hnpzn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/12a1_spyyq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/13a1_ptjhz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1463629316-1463629214-dich-benh-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/14a1_nlnfm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/15a_qripd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/165126-nha1-bap_cfdvq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/16a1_rzhqj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/179tiem-thuy-dau1_xzjgm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/17a_mzxqd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/18a1_ujuuq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/19a_foqae.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_syqmv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_wcpye.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2-1_gbhlc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/20a_qvuhc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/21a1_opsas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/22a_hrrno.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/23a_iytyz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/23a_kvged.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/24a1_covml.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/24a_vdcxb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/25a_bidmw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/28a1_rwgmx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/28b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/29a1_eokkh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/29b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_beysl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2b1_limqf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/30a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/30b1_umsmt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/31a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/31a1_qlzyn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/33a_mmfsa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/34a_azzml.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a1_farak.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/478_detskiy-massazhist.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a2_zvrqu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a1_mijta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a_mnqgq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/6a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/6a1_mbeso.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7a1_euato.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7a1_qgnbr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/8a1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/8b1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/9a1_drtih.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/abhayrab_uadwz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/abhayrig_owshz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/act-hib_mgquz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/adacel_aztsj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/an-gi-de-chua-tao-bon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/astressedbusinesswomanlookstiredsheanswertelephonesinheroffice1421227129108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/avaxim-160u_twwzn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/avaxim-80u_ywjls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bai-liet-ipv_sgebc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/banner-slider_nwmqj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/banner2_stchg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bcg_ktfcp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/be-bi-tao-bon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bg_top.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bgs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bo sung men tieu hoa tu thuc pham.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/byt_fpxsr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/bệnh-trai-ra-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/cach-lam-mon-canh-ga-nau-su-su-sieu-ngot-thanh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/canh-bao-dich-benh-dau-mua-mua-tre-mac-ho-hap-gia-dau-khap-nguoi (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/canh-bao-dich-benh-dau-mua-mua-tre-mac-ho-hap-gia-dau-khap-nguoi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/cervarix_gpscb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/chanh du du chin.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/chanh-du-du-chin-2_zxcuv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/chanh-va-du-du-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/chinh@2011111694015566_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/chua-tao-bon-cho-tre-voi-rau-xanh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/cu-gung.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/d-t-vax_egdgr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/dpt_klcos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/dtap_zgjbs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/dấm-táo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/engerix-b_rottm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/epaxal_dyxei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/euvax-b_rxruj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/favirab_blnmk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/fluarix_xovol.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/friorix_ufgne.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/gardasil_iytjn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/giu-tam-ly-thoai-mai-phong-ngua-polyp-truc-trang.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/havax_miisl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/havrix_vavbl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/hcm343059-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/heberbiovac-hb_ipnuz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/hepabig_ugtue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/hepavax-gene_mwnit.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/hiberix_dssmn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/huong-dan-cach-cham-soc-tre-sau-khi-an-va-bu-sua-me-de-tranh-bi-non-tro-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/huyet-thanh-ran-da-gia_ospuk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/huyet-thanh-ran-ho-dat_qxvbl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/images1178750_sua_tuoi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/imovax-polio_lkdvj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/infanrix-hexa_buiei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/inflexal-v_azsao.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/influvac_dtfsm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/japanese-encephalitis-vaccine-gcc_kdegx.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/jevax_wveef.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/kim-than-khang-(1)-36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/ktk-11_vbddq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/luu-y-cham-soc-tre-so-sinh1_ytwzo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/men-t-hoa_gewod.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/meningo-ac_cabad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/meningococcal-ac_ijyul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/meningococcal-bc_qhrli.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/mmr-ii_zicsu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/mo-xe-benh-la-khien-cu-ba-mang-khoi-u-3kg-tren-mat-hinh-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/morc-vax_bpghq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/mosquito-borne-diseases.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/muathuoctot.com_140566793816276745.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/mumps_kralg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/mvvac_xvczl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/nguyen-nhan-benh-sui-mao-ga-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/okavax_ihleu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/pentaxim_ybfqn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/phu-nu-sau-sinh-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/pneumo-23_glfou.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/pneumococcal-pc13_xgdbh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/polysaccharide_vmfqr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/quimi-hib_ahymu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/quinvaxem_incfu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rabipur_rnoar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rauhungcay.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rhbvax_kjrgi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rotarix_tvtsd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rotateq_lctpn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rotavin-m1_hjbxz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/rubella_mjtjc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/s-a-t_fyagv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/sar_kmsdf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/sci-b-vac_dbjvc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/synflorix_lonsg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/td_jlkge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tdap_mnrho.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tetanea_lovaq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tetatox_qvphu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tetavax_hafiw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tetraxim_kexwo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/thuy-dau-de-tan-cong-tre-nho-vao-mua-lanh-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tiem-h1pv_vcogc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tinh_toan_luong_protein_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/toi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tri-nam-da-bang-phuong-phap-tu-nhien-tai-nha5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/trimovax_yapbl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/tritanrix_cxcls.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/trivivac_gcvpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/trà-bạc-hà.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/twinrix_vzfmv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/typhim-vi_rzywc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/uon-van-hap-thu_cyxid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/vacxin-dot-8_jyslb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/varicella_mphyj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/varilrix_mglts.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/varivax_owlxa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/vaxigrip_sjplm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/verorab_rpcab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/1_vapso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/2_ocuqz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/3_drmng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/4_kobbt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/5_smovx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/6_ffyem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bg-module-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bg-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bg-time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-email-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-next-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-pre-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/btn-pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bulet-right-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bulet-right-w-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bulet-right-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/bulet-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/cam-nang-benh_wuwjh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/check_radio_sheet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/dash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/dat-lich-kham_kvjgs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/date-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/dis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/fa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/google.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/gplus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/ha-noi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/hcm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/hoi-dap_mscdk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/hoichungongcotay1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-home-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-search-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-user-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/icon-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/lock-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/logo-nihe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/logo-tiemvacxin_hrsax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/logo-white_nrnrf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/print-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/read-more-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/read-more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/so-y-te_mmzqs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/tiem-vacxin_jxyqg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/tiem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/true-bulet-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/true-bulet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/tu-thuoc_khofe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/twister.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/view-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all-d028173b6a.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all-efb499980f.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all.min-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/fix.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/addthis_widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all-1ee5bd3caa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.min-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/analytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/fix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/jquery-2.1.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/sdk.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pasteur/css/all.min.css" afterPath="$PROJECT_DIR$/pasteur/css/all.min.css" />
     </list>
     <ignored path="huong-cdn.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,53 +274,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="logo-tiemvacxin.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo-white.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/logo-white.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="all.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+              <caret line="8" column="3372" selection-start-line="8" selection-start-column="3372" selection-end-line="8" selection-end-column="3372" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="all.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+        <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+            <state relative-caret-position="240">
+              <caret line="10" column="35598" selection-start-line="10" selection-start-column="35598" selection-end-line="10" selection-end-column="35598" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="all.min.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+        <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="10" column="35336" selection-start-line="10" selection-start-column="35336" selection-end-line="10" selection-end-column="35336" />
+            <state relative-caret-position="117">
+              <caret line="7" column="132961" selection-start-line="7" selection-start-column="132961" selection-end-line="7" selection-end-column="132961" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="9" column="9210" selection-start-line="9" selection-start-column="9210" selection-end-line="9" selection-end-column="9210" />
-              <folding />
-            </state>
+      <file leaf-file-name="tiem.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/tiem.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="all.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="tiem-bo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pasteur/img/tiem-bo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -90,10 +348,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vaccine/js/all.min.js" />
-        <option value="$PROJECT_DIR$/vaccine/css/all.min.css" />
         <option value="$PROJECT_DIR$/pasteur/js/all.min.js" />
+        <option value="$PROJECT_DIR$/vaccine/js/all.min.js" />
         <option value="$PROJECT_DIR$/pasteur/css/all.min.css" />
+        <option value="$PROJECT_DIR$/vaccine/css/all.min.css" />
       </list>
     </option>
   </component>
@@ -105,9 +363,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -134,6 +392,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,6 +408,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vaccine" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vaccine" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huong-cdn.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vaccine" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -187,7 +496,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,7 +558,12 @@
       <workItem from="1464322312184" duration="192000" />
       <workItem from="1464322952376" duration="5243000" />
       <workItem from="1464398467594" duration="3962000" />
-      <workItem from="1464571299333" duration="2718000" />
+      <workItem from="1464571299333" duration="3997000" />
+      <workItem from="1464661715016" duration="8000000" />
+      <workItem from="1466072691235" duration="260000" />
+      <workItem from="1467076816959" duration="1552000" />
+      <workItem from="1467081777006" duration="480000" />
+      <workItem from="1467101359338" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="fix text validate">
       <created>1463546811230</created>
@@ -434,20 +747,145 @@
       <option name="project" value="LOCAL" />
       <updated>1464581299596</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="fix css">
+      <created>1464581537739</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1464581537739</updated>
+    </task>
+    <task id="LOCAL-00028" summary="css input hidden">
+      <created>1464599454540</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1464599454540</updated>
+    </task>
+    <task id="LOCAL-00029" summary="css input hidden">
+      <created>1464661800850</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1464661800850</updated>
+    </task>
+    <task id="LOCAL-00030" summary="css input hidden">
+      <created>1464673182260</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1464673182260</updated>
+    </task>
+    <task id="LOCAL-00031" summary="css input hidden">
+      <created>1464676471636</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1464676471636</updated>
+    </task>
+    <task id="LOCAL-00032" summary="css input hidden">
+      <created>1464678426334</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1464678426334</updated>
+    </task>
+    <task id="LOCAL-00033" summary="css input hidden">
+      <created>1464679853442</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1464679853442</updated>
+    </task>
+    <task id="LOCAL-00034" summary="css input hidden">
+      <created>1464683973034</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1464683973034</updated>
+    </task>
+    <task id="LOCAL-00035" summary="css input hidden">
+      <created>1464684440829</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1464684440829</updated>
+    </task>
+    <task id="LOCAL-00036" summary="css input hidden">
+      <created>1464684694712</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1464684694712</updated>
+    </task>
+    <task id="LOCAL-00037" summary="css input hidden">
+      <created>1464685844195</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1464685844195</updated>
+    </task>
+    <task id="LOCAL-00038" summary="css input hidden">
+      <created>1464686923100</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1464686923100</updated>
+    </task>
+    <task id="LOCAL-00039" summary="css input hidden">
+      <created>1464687452306</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1464687452306</updated>
+    </task>
+    <task id="LOCAL-00040" summary="change logo">
+      <created>1466072740033</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1466072740033</updated>
+    </task>
+    <task id="LOCAL-00041" summary="change logo">
+      <created>1466072892886</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1466072892886</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix time count down">
+      <created>1467076851913</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1467076851913</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix time count down">
+      <created>1467077050118</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1467077050118</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix css">
+      <created>1467080087863</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1467080087863</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18578000" />
+    <option name="totallyTimeSpent" value="30201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27649403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3306773" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28486648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -455,6 +893,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -480,6 +919,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fix text validate" />
+    <MESSAGE value="css input hidden" />
+    <MESSAGE value="change logo" />
+    <MESSAGE value="fix time count down" />
     <MESSAGE value="fix css" />
     <option name="LAST_COMMIT_MESSAGE" value="fix css" />
   </component>
@@ -488,18 +930,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+          <caret line="8" column="3372" selection-start-line="8" selection-start-column="3372" selection-end-line="8" selection-end-column="3372" />
           <folding />
         </state>
       </provider>
@@ -507,12 +951,12 @@
     <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
+          <caret line="10" column="35598" selection-start-line="10" selection-start-column="35598" selection-end-line="10" selection-end-column="35598" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -520,18 +964,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem-bo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+          <caret line="8" column="3372" selection-start-line="8" selection-start-column="3372" selection-end-line="8" selection-end-column="3372" />
           <folding />
         </state>
       </provider>
@@ -539,8 +995,102 @@
     <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
+          <caret line="10" column="35598" selection-start-line="10" selection-start-column="35598" selection-end-line="10" selection-end-column="35598" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem-bo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem-bo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="9210" selection-start-line="9" selection-start-column="9210" selection-end-line="9" selection-end-column="9210" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
         </state>
       </provider>
     </entry>
@@ -548,7 +1098,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="33875" selection-start-line="10" selection-start-column="33875" selection-end-line="10" selection-end-column="33875" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -556,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,7 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="1852" selection-start-line="8" selection-start-column="1852" selection-end-line="8" selection-end-column="1852" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +1152,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,7 +1159,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="3150" selection-start-line="8" selection-start-column="3150" selection-end-line="8" selection-end-column="3150" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -593,7 +1166,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,42 +1179,65 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
+    <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="819" selection-start-line="8" selection-start-column="819" selection-end-line="8" selection-end-column="819" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="135383" selection-start-line="7" selection-start-column="135383" selection-end-line="7" selection-end-column="135383" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pasteur/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="9" column="9210" selection-start-line="9" selection-start-column="9210" selection-end-line="9" selection-end-column="9210" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="9" column="9370" selection-start-line="9" selection-start-column="9370" selection-end-line="9" selection-end-column="9370" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pasteur/css/all.css">
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem-bo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/tiem.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-tiemvacxin.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pasteur/img/logo-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="8" column="3372" selection-start-line="8" selection-start-column="3372" selection-end-line="8" selection-end-column="3372" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pasteur/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="10" column="35336" selection-start-line="10" selection-start-column="35336" selection-end-line="10" selection-end-column="35336" />
+        <state relative-caret-position="240">
+          <caret line="10" column="35598" selection-start-line="10" selection-start-column="35598" selection-end-line="10" selection-end-column="35598" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" column="132961" selection-start-line="7" selection-start-column="132961" selection-end-line="7" selection-end-column="132961" />
           <folding />
         </state>
       </provider>

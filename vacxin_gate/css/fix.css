@@ -1,0 +1,327 @@
+.a-nav-top .active {
+	background-color: #ef5859;
+	border-radius: 25px;
+	color: #fff !important;
+}
+.navbar-nav li a:hover{
+	color: #fff !important;
+}
+li.typeahead__item a:hover{
+	color: #333 !important;
+}
+@media screen and (max-width: 767px){
+	main{
+		margin-top: 76px;
+	}
+	.breadcrum {
+		padding: 0px 15px;
+	}
+	.page-num{
+		padding: 0px;
+	}
+	.page-num li a{
+		padding: 0px 12px !important;
+	}
+}
+/*22-6-2016*/
+.a-detail-post img{
+	width: 100%;
+	height: auto;
+}
+.a-newproduct-content-item-link {
+	display: block;
+	min-height: 210px !important;
+}
+.a-login-so a {
+	display: inline-block !important;
+}
+.a-login-so a img{
+	margin-bottom: 10px;
+}
+.a-title-vac{
+	margin-top: 20px !important;
+}
+@media screen and (min-width: 767px) and (max-width: 991px){
+	.breadcrum {
+		margin-top: 80px !important;
+		margin-left: 20px !important;
+	}
+}
+/*datnv23062016*/
+.a-nav-top .a-user-dropdown>ul{
+	box-shadow: none !important;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	padding: 5px 10px !important;
+	margin-top: 12px;
+}
+.a-nav-top .a-user-dropdown>ul>li{
+	padding: 5px 10px !important;
+}
+.a-nav-top .nav.navbar-nav>li {
+	margin-right: 10px;
+}
+.a-nav-top .navbar-nav>li>a {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+.a-nav-top .nav.navbar-nav>li {
+	padding-bottom: 30px;
+}
+.a-user-dropdown:hover>a{
+	background-color: #ef5859;
+	color: #fff !important;
+}
+.a-nav-top .nav.navbar-nav>li:last-child:hover>a{
+	background-color: #f5f5f5 !important;
+}
+.a-line-h {
+	float: right;
+	width: 78px !important;
+}
+.a-slider{
+	background-color: #f5f5f5 !important;
+}
+.a-newproduct-content-item-link small {
+	font-size: 13px;
+	color: #333;
+	height: 30px;
+	float: left;
+	display: block;
+	width: 100%;
+}
+#a-newproduct-slider .owl-controls{
+	margin-top: 0px !important;
+}
+
+.a-footer-content>.container>.row>div:nth-child(1){
+	margin-top: -20px;
+}
+.a-nav-top .search-box-top .a-btn-search{
+	position: fixed !important;
+	top: 15px !important;
+	right: 8px !important;
+}
+
+/*24062016*/
+@media screen and (min-width: 993px){
+	.search-box-top{
+		display: none !important;
+	}
+}
+.a-nav-top .search-box-top {
+	position: fixed !important;
+	top: 5px !important;
+	right: 0px;
+	float: right;
+	width: 230px;
+	height: 51px;
+}
+@media screen and (min-width: 767px) and (max-width: 992px){
+	.a-top-search-form form {
+		position: absolute !important;
+		top: 4px !important;
+		left: auto !important;
+	}
+}
+@media (min-width: 992px){
+	.search-box-top{
+		display: none;
+	}
+}
+@media (max-width: 767px){
+	.a-nav-top .search-box-top form {
+		position: absolute !important;
+		left: auto !important;
+		margin-top: 2px;
+		top: inherit !important;
+	}
+	.a-newproduct-content-item{
+		min-height: 300px;
+		position: relative;
+		margin-top: 30px;
+		float: left;
+		width: 100%;
+	}
+}
+@media (width: 768px){
+	.a-nav-top .search-box-top form {
+		position: absolute !important;
+		top: 0px !important;
+		left: auto !important;
+		right: 0px !important;
+
+	}
+}
+
+
+.search-box-top form {
+	position: absolute;
+	left: inherit !important;
+	z-index: 9;
+}
+.homePage .navbar {
+	background-color: #f5f5f5 !important;
+}
+.drawer-menu {
+	list-style: none;
+	padding: 20px;
+	float: left;
+	width: 100%;
+}
+.navbar-brand {
+	height: 99px !important;
+	width: 100% !important;
+}
+a:hover,a:focus,a:active{
+	text-decoration: none !important;
+}
+.drawer-nav {
+	background-color: #f5f5f5 !important;
+}
+@media (width: 1024px){
+	.a-line-h {
+		float: right;
+		width: 39px !important;
+	}
+}
+@media (min-width: 1024px){
+	.a-newproduct-content-item{
+		min-height: 300px;
+		position: relative;
+	}
+	.a-newproduct-content-item-btn {
+		padding: 3px 20px !important;
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+	}
+}
+.a-right-content{
+	border-left: 0px !important;
+}
+.a-news-item-lage-description {
+	text-align: justify;
+}
+.a-news-item-medium-title {
+	text-align: justify;
+}
+.drawer-dropdown-menu{
+	background-color: #f5f5f5 !important;
+}
+.a-nav-top{
+	background-color: #f5f5f5 !important;
+	border-bottom: 1px solid #ededed !important;
+	border-radius: 0px !important;
+}
+.homePage .a-nav-top{
+	background-color: #f5f5f5 !important;
+	border-bottom: 0px !important;
+	border-radius: 0px !important;
+}
+.drawer-menu-item.active{
+	background-color: #ee5859;
+	color: #fff;
+}
+.page-list li:nth-child(1){
+	display: inline-block !important;
+}
+.page-num{
+	width: 100%;
+	padding: 0px;
+	text-align: right;
+}
+.page-num li{
+
+}
+@media (max-width: 767px){
+	.page-num {
+		list-style: none;
+		margin: 20px 0px;
+		float: right;
+		width: 100%;
+	}
+}
+.tags-tk{
+	position: relative !important;
+	top: 0px !important;
+}
+.a-links-module-items div:hover{
+	opacity: .8;
+}
+.a-news-item-lage-title{
+	color: #333 !important;
+}
+.a-news-item-lage-title:hover{
+	color: #1b3588 !important;
+}
+.a-left-content-box-right .a-left-content-box-right-ul li a{
+	color: #333 !important;
+}
+.a-left-content-box-right .a-left-content-box-right-ul li a:hover{
+	color: #1b3588 !important;
+}
+.a-right-content-box-notifce a:hover{
+	opacity: .8;
+}
+.a-nav-sidebar ul li a:hover{
+	color: #ef5859;
+}
+.a-left-content-box-right-ul li a:hover{
+	color: #1b3588;
+}
+
+.a-medium-list-news li p{
+	text-align: justify;
+}
+.a-medium-list-news a span{
+	text-align: justify;
+}
+.a-tlq-a-active a{
+	color: #fff !important;
+}
+.a-newproduct-content-item-link span{
+	color: #333 !important;
+}
+.a-newproduct-content-item-link:hover span{
+	color: #1b3588 !important;
+}
+.a-nav-sidebar ul li.a-tlq-a-active a{
+	background: none;
+}
+.a-nav-sidebar ul li a{
+	border: 0px;
+}
+.a-nav-sidebar ul li{
+	border-top: 1px dotted #eee;
+}
+.a-links-module-items{
+	background-color: #fff !important;
+}
+.a-medium-list-news a img {
+    width: 100px;
+    height: 70px !important;
+    float: left;
+}
+@media (max-width: 500px){
+	.a-footer-content .container .row>div:nth-child(2)>.row >div:nth-child(2){
+		display: none;
+	}
+	.a-footer-content .container .row>div:nth-child(2)>.row >div:nth-child(1),.a-footer-content .container .row>div:nth-child(2)>.row >div:nth-child(3){
+		width: 45%;
+		margin-top: 20px;
+		margin-bottom: 30px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1024px){
+	.a-links-module {
+	    text-align: center;
+	    margin-top: -64px;
+	    position: relative;
+	    z-index: 9;
+	}
+}
+#loginForm label{
+	display: none;
+}
+
