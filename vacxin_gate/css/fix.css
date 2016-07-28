@@ -11,7 +11,7 @@ li.typeahead__item a:hover{
 }
 @media screen and (max-width: 767px){
 	main{
-		margin-top: 60px;
+		margin-top: 50px;
 	}
 	.breadcrum {
 		padding: 0px 15px;
@@ -88,7 +88,7 @@ li.typeahead__item a:hover{
 .a-newproduct-content-item-link small {
 	font-size: 13px;
 	color: #333;
-	height: 30px;
+	height: 40px;
 	float: left;
 	display: block;
 	width: 100%;
@@ -102,8 +102,8 @@ li.typeahead__item a:hover{
 }
 .a-nav-top .search-box-top .a-btn-search{
 	position: fixed !important;
-	top: 15px !important;
-	right: 8px !important;
+	top: 11px !important;
+	right: 15px !important;
 }
 
 /*24062016*/
@@ -114,7 +114,7 @@ li.typeahead__item a:hover{
 }
 .a-nav-top .search-box-top {
 	position: fixed !important;
-	top: 5px !important;
+	top: 2px !important;
 	right: 0px;
 	float: right;
 	width: 230px;
@@ -140,7 +140,7 @@ li.typeahead__item a:hover{
 		top: inherit !important;
 	}
 	.a-newproduct-content-item{
-		min-height: 300px;
+		/* min-height: 300px; */
 		position: relative;
 		margin-top: 20px;
 		float: left;
@@ -173,7 +173,7 @@ li.typeahead__item a:hover{
 	width: 100%;
 }
 .navbar-brand {
-	height: 60px !important;
+	height: 50px !important;
 	width: 100% !important;
 }
 a:hover,a:focus,a:active{
@@ -190,7 +190,7 @@ a:hover,a:focus,a:active{
 }
 @media (min-width: 1024px){
 	.a-newproduct-content-item{
-		min-height: 320px;
+		/* min-height: 320px; */
 		position: relative;
 	}
 	.a-newproduct-content-item-btn {
@@ -217,7 +217,8 @@ a:hover,a:focus,a:active{
 	}
 }
 .a-right-content{
-	border-left: 0px !important;
+	/* border-left: 0px !important; */
+	float: right;	
 }
 .a-news-item-lage-description {
 	text-align: justify;
@@ -236,7 +237,7 @@ a:hover,a:focus,a:active{
 .homePage .a-nav-top{
 	background-color: #f5f5f5 !important;
 	border-bottom: 0px !important;
-	border-radius: 0px !important;
+	border-radius: 0px !important;	
 }
 .drawer-menu-item.active{
 	background-color: #ee5859;
@@ -275,7 +276,7 @@ a:hover,a:focus,a:active{
 	position: relative !important;
 	top: 0px !important;
 }
-.a-links-module-items div:hover{
+.a-links-module-items .owl-item div:hover{
 	opacity: .8;
 }
 .a-news-item-lage-title{
@@ -386,7 +387,7 @@ a:hover,a:focus,a:active{
 	.a-nav-top .navbar-brand img {
 	    margin: auto;
 	    width: 126px;
-	    margin-top: -8px;
+	    margin-top: -12px;
 	}
 	.breadcrum {
 	    margin-top: 80px;
@@ -409,10 +410,10 @@ a:hover,a:focus,a:active{
 		margin-top: 0px;
 	}
 	.a-links-module-items {	   
-	    padding: 20px 0px;
+	    /*padding: 20px 0px;*/
 	}
 	.a-links-module-items div {	    
-	    padding: 10px 0px;
+		padding: 3px 0px;
 	}
 	.a-left-content-box-right-tit {
 	    margin-top: 20px;
@@ -429,12 +430,50 @@ a:hover,a:focus,a:active{
 	}
 	.a-left-content-box-bannerad{
 		float: left;
+		margin-top: 0px !important;
 	}
 	.a-left-content-box{
-		margin-top: 20px;
+		/* margin-top: 20px; */
+		margin-bottom: 0px;
+		padding-bottom: 10px;
 	}
 	.read-more{
 		margin-top: 0px;
+	}
+	.a-banner-ad{
+		margin-bottom: 20px;
+	}
+	.a-left-content-box-right-tit{
+		margin-top: 10px;
+	}	
+	.a-news-item-lage-title {	    
+	    font-size: 16px;
+	}
+	.a-slider {
+	    margin-top: 50px;
+	}
+	.drawer--left .drawer-hamburger, .drawer--left.drawer-open .drawer-navbar .drawer-hamburger {
+	    left: 20px;
+	    top: -4px;
+	}
+	.a-newproduct-content-item-btn {
+	    margin-bottom: 20px;
+	    display: none;
+	}
+	.read-more{
+		display: none;
+	}
+	.homePage .a-nav-top{
+		height: 50px;
+	}
+	#quick-menu-slider .owl-nav .owl-prev, #quick-menu-slider .owl-nav .owl-next {
+		top: 70px;
+	}
+	#quick-menu-slider .owl-nav .owl-prev{
+		left: 5px;
+	}
+	#quick-menu-slider .owl-nav .owl-next{
+		right: 5px;
 	}
 }
 .logo-mobile{
@@ -465,6 +504,7 @@ a:hover,a:focus,a:active{
 }
 .a-newproduct-content-item-btn{
 	margin-bottom: 20px;
+	display: none;
 }
 .a-short-description{
 	text-align: justify;
@@ -473,7 +513,7 @@ a:hover,input:hover,input:focus,a:focus{
 	outline: none;
 }
 .a-links-module {
-    margin-top: -20px;
+    margin-top: 0px;
 }
 
 #a-banner-slider .owl-controls{
@@ -504,4 +544,23 @@ a:hover,input:hover,input:focus,a:focus{
 }
 .owl-nav{
 	display: none;
+}
+.a-links-module-items img {
+	width: 40px !important;
+	display: inline-block !important;
+}
+.a-tts .col-md-3 {
+    margin-bottom: 30px;
+    min-height: 284px;
+}
+ul.drawer-menu a.logo-mobile {
+    margin-top: -19px;
+}
+.a-links-module-items div.owl-dots{
+	margin-top: -10px;
+}
+@media screen and (max-width: 991px){
+	.a-left-content-box-left h2 {
+	    margin-top: 10px;
+	}
 }
