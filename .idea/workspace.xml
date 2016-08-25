@@ -2,70 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d6b7f30-8f4b-4ed4-a717-63c31081b90c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/10a-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/10b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/10b1_hoqxo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/11a-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/11a1_zfjtv.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/12a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/12a1_uysuc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/13a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/13a1_odpzu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/14a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/14a1_rldnh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/14b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_kyivw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a_dfmvq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a_ntcdt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_fifjb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_ovlup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_ozuhy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2b-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2b1_dtsgu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2d1_csgtx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a1_rjmrg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3e1_qasmf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_pekbr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4b1_iipul.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7a1_jhzml.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/7a1_jyzcx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/8a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/8a1_vsxbf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/slide-1170x500_fieep.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/slide-1170x500_wnjyd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/css/all-c578d4d1ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/js/all-52f52ae8ce.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/1.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/10a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/10a.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/11a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/11a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_arndo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_coxwk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_dqrtz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_lkzyt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_micvi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_mjlot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_pfnvp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a1_utgzw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_bjcco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_gtgye.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a1_odgaq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a1_fajvy.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3b1_gegbv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3b1_qrqna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_asvrv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_pqsff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_quqhc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_svlsa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_tscxo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_uvuml.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a1_wqllj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4b-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4b1_otify.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4c.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5432-sk_huarp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a1_jtcwl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a1_zmxjs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/5a1_zszxf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/cachtribongdau-1_bvtuw.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/slide_dkknl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/slide_dkvrq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacxin_gate/png/1a.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/1a-2.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/1a-3.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/1a-4.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a-4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/1a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/1a.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/2a-2.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/2a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/2a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/3a-2.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/3a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/3a.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/4a-2.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/jpg/4a.jpg" afterPath="$PROJECT_DIR$/vacxin_gate/jpg/4a.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/css/fix.css" afterPath="$PROJECT_DIR$/vacxin_gate/css/fix.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/addthis_widget.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/addthis_widget.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/all.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/all.js.map" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/all.min.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/all.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/analytics.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/analytics.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/sdk-2.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/sdk-2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacxin_gate/js/sdk.js" afterPath="$PROJECT_DIR$/vacxin_gate/js/sdk.js" />
     </list>
@@ -91,7 +93,7 @@
       <file leaf-file-name="all.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="0">
               <caret line="7" column="133591" selection-start-line="7" selection-start-column="133591" selection-end-line="7" selection-end-column="133591" />
               <folding />
             </state>
@@ -111,7 +113,7 @@
       <file leaf-file-name="all.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="192">
               <caret line="8" column="977" selection-start-line="8" selection-start-column="977" selection-end-line="8" selection-end-column="977" />
               <folding />
             </state>
@@ -267,8 +269,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,14 +347,8 @@
       <workItem from="1468546898059" duration="2377000" />
       <workItem from="1468807158845" duration="673000" />
       <workItem from="1469590450228" duration="1083000" />
-      <workItem from="1469694997545" duration="77000" />
-    </task>
-    <task id="LOCAL-00004" summary="fix css">
-      <created>1463559764888</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1463559764888</updated>
+      <workItem from="1469694997545" duration="707000" />
+      <workItem from="1472121639488" duration="13000" />
     </task>
     <task id="LOCAL-00005" summary="fix css">
       <created>1463564134417</created>
@@ -690,22 +686,29 @@
       <option name="project" value="LOCAL" />
       <updated>1469590576875</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="update assets for vacxin_gate">
+      <created>1469695079795</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1469695079795</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38248000" />
+    <option name="totallyTimeSpent" value="38891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35936254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36573705" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2967359" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30860534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1040,7 +1043,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/css/all.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="0">
           <caret line="7" column="133591" selection-start-line="7" selection-start-column="133591" selection-end-line="7" selection-end-column="133591" />
           <folding />
         </state>
@@ -1064,7 +1067,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vaccine/js/all.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
+        <state relative-caret-position="192">
           <caret line="8" column="977" selection-start-line="8" selection-start-column="977" selection-end-line="8" selection-end-column="977" />
           <folding />
         </state>
